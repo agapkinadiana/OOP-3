@@ -1,0 +1,355 @@
+ProcName: ScriptedSandbox64
+ProcId: 4924
+
+
+
+ProcName: ServiceHub.DataWarehouseHost
+ProcId: 392
+
+
+
+ProcName: svchost
+ProcId: 1768
+
+
+
+ProcName: coherence
+ProcId: 1964
+
+
+
+ProcName: conhost
+ProcId: 6492
+
+
+
+ProcName: VBCSCompiler
+ProcId: 2940
+
+
+
+ProcName: SearchIndexer
+ProcId: 3360
+
+
+
+ProcName: svchost
+ProcId: 964
+
+
+
+ProcName: MsMpEng
+ProcId: 1748
+
+
+
+ProcName: lab14
+ProcId: 2732
+
+
+
+ProcName: svchost
+ProcId: 1548
+
+
+
+ProcName: ApplicationFrameHost
+ProcId: 4896
+
+
+
+ProcName: SystemSettings
+ProcId: 6076
+
+
+
+ProcName: ServiceHub.Host.Node.x86
+ProcId: 1620
+
+
+
+ProcName: winlogon
+ProcId: 552
+
+
+
+ProcName: svchost
+ProcId: 944
+
+
+
+ProcName: ShellExperienceHost
+ProcId: 3504
+
+
+
+ProcName: ServiceHub.RoslynCodeAnalysisService32
+ProcId: 5272
+
+
+
+ProcName: MpCmdRun
+ProcId: 5268
+
+
+
+ProcName: MicrosoftEdgeCP
+ProcId: 3096
+
+
+
+ProcName: svchost
+ProcId: 728
+
+
+
+ProcName: svchost
+ProcId: 1316
+
+
+
+ProcName: TabTip32
+ProcId: 920
+
+
+
+ProcName: StandardCollector.Service
+ProcId: 2976
+
+
+
+ProcName: msdtc
+ProcId: 2296
+
+
+
+ProcName: ServiceHub.VSDetouredHost
+ProcId: 320
+
+
+
+ProcName: devenv
+ProcId: 3468
+
+
+
+ProcName: taskhostw
+ProcId: 2924
+
+
+
+ProcName: svchost
+ProcId: 904
+
+
+
+ProcName: smss
+ProcId: 312
+
+
+
+ProcName: dllhost
+ProcId: 2280
+
+
+
+ProcName: WUDFHost
+ProcId: 1096
+
+
+
+ProcName: SearchUI
+ProcId: 3656
+
+
+
+ProcName: sihost
+ProcId: 2864
+
+
+
+ProcName: svchost
+ProcId: 1088
+
+
+
+ProcName: explorer
+ProcId: 2268
+
+
+
+ProcName: MicrosoftEdge
+ProcId: 2068
+
+
+
+ProcName: conhost
+ProcId: 6992
+
+
+
+ProcName: sedsvc
+ProcId: 956
+
+
+
+ProcName: ServiceHub.Host.CLR.x86
+ProcId: 2652
+
+
+
+ProcName: conhost
+ProcId: 6400
+
+
+
+ProcName: csrss
+ProcId: 480
+
+
+
+ProcName: wininit
+ProcId: 472
+
+
+
+ProcName: conhost
+ProcId: 4608
+
+
+
+ProcName: svchost
+ProcId: 272
+
+
+
+ProcName: svchost
+ProcId: 4408
+
+
+
+ProcName: ServiceHub.SettingsHost
+ProcId: 4728
+
+
+
+ProcName: TabTip
+ProcId: 3156
+
+
+
+ProcName: coherence
+ProcId: 1048
+
+
+
+ProcName: browser_broker
+ProcId: 6172
+
+
+
+ProcName: SkypeHost
+ProcId: 2608
+
+
+
+ProcName: services
+ProcId: 600
+
+
+
+ProcName: dwm
+ProcId: 832
+
+
+
+ProcName: PerfWatson2
+ProcId: 4328
+
+
+
+ProcName: MSBuild
+ProcId: 4768
+
+
+
+ProcName: RuntimeBroker
+ProcId: 2804
+
+
+
+ProcName: prl_cc
+ProcId: 1408
+
+
+
+ProcName: WmiPrvSE
+ProcId: 4160
+
+
+
+ProcName: spoolsv
+ProcId: 1400
+
+
+
+ProcName: dllhost
+ProcId: 1792
+
+
+
+ProcName: lsass
+ProcId: 608
+
+
+
+ProcName: NisSrv
+ProcId: 3168
+
+
+
+ProcName: prl_tools_service
+ProcId: 1784
+
+
+
+ProcName: csrss
+ProcId: 404
+
+
+
+ProcName: ServiceHub.IdentityHost
+ProcId: 4540
+
+
+
+ProcName: svchost
+ProcId: 992
+
+
+
+ProcName: svchost
+ProcId: 688
+
+
+
+ProcName: System
+ProcId: 4
+
+
+
+ProcName: coherence
+ProcId: 1776
+
+
+
+ProcName: prl_tools
+ProcId: 1972
+
+
+
+ProcName: Idle
+ProcId: 0
+
+
+

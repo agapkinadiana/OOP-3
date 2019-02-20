@@ -1,0 +1,20 @@
+\\Mac\Home\Desktop\lab14\lab14\bin\Debug\lab14.exe.config
+\\Mac\Home\Desktop\lab14\lab14\bin\Debug\lab14.exe
+\\Mac\Home\Desktop\lab14\lab14\bin\Debug\lab14.pdb
+\\Mac\Home\Desktop\lab14\lab14\bin\Debug\System.ValueTuple.dll
+\\Mac\Home\Desktop\lab14\lab14\bin\Debug\System.ValueTuple.xml
+\\Mac\Home\Desktop\lab14\lab14\obj\Debug\lab14.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\lab14\lab14\obj\Debug\lab14.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\lab14\lab14\obj\Debug\lab14.csproj.CopyComplete
+\\Mac\Home\Desktop\lab14\lab14\obj\Debug\lab14.exe
+\\Mac\Home\Desktop\lab14\lab14\obj\Debug\lab14.pdb
+\\Mac\Home\Desktop\3 семестр\OOP\lab14\lab14\bin\Debug\lab14.exe.config
+\\Mac\Home\Desktop\3 семестр\OOP\lab14\lab14\bin\Debug\lab14.exe
+\\Mac\Home\Desktop\3 семестр\OOP\lab14\lab14\bin\Debug\lab14.pdb
+\\Mac\Home\Desktop\3 семестр\OOP\lab14\lab14\bin\Debug\System.ValueTuple.dll
+\\Mac\Home\Desktop\3 семестр\OOP\lab14\lab14\bin\Debug\System.ValueTuple.xml
+\\Mac\Home\Desktop\3 семестр\OOP\lab14\lab14\obj\Debug\lab14.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\3 семестр\OOP\lab14\lab14\obj\Debug\lab14.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\3 семестр\OOP\lab14\lab14\obj\Debug\lab14.csproj.CopyComplete
+\\Mac\Home\Desktop\3 семестр\OOP\lab14\lab14\obj\Debug\lab14.exe
+\\Mac\Home\Desktop\3 семестр\OOP\lab14\lab14\obj\Debug\lab14.pdb
