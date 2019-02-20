@@ -1,0 +1,46 @@
+12/19/2018 12:38:30 - Получаем информацию о дисках системы.
+12/19/2018 12:38:30 - Выполняем вывод информации о файле ADSlogfile.txt
+12/19/2018 12:38:30 - Получаем информацию о файлах и директориях в /Users/dianaagapkina/Desktop/3 семестр
+12/19/2018 12:38:30 - Получаем файлы и директории в /Users/dianaagapkina/Desktop
+12/19/2018 12:38:30 - Создаем файл/Users/dianaagapkina/Desktop/ADSInspect/ADSdirinfo.txt
+12/19/2018 12:38:30 - Записываем информацию о файлах и папках в /Users/dianaagapkina/Desktop/ADSInspect/ADSdirinfo.txt
+12/19/2018 12:38:30 - Перемещаем файл /Users/dianaagapkina/Desktop/ADSInspect/ADSdirinfo.txt в /Users/dianaagapkina/Desktop/ADSInspect/bong.txt
+12/19/2018 12:38:30 - Получаем информацию о jpg файлах в /Users/dianaagapkina/Desktop/good
+12/19/2018 12:38:30 - Копируем файлы png из /Users/dianaagapkina/Desktop/good в /Users/dianaagapkina/Desktop/ADSInspect/
+12/19/2018 12:38:30 - Перемещаем /Users/dianaagapkina/Desktop/ADSFiles в /Users/dianaagapkina/Desktop/ADSInspect
+12/19/2018 12:38:49 - Получаем информацию о дисках системы.
+12/19/2018 12:38:49 - Выполняем вывод информации о файле ADSlogfile.txt
+12/19/2018 12:38:49 - Получаем информацию о файлах и директориях в /Users/dianaagapkina/Desktop/3 семестр
+12/19/2018 12:38:49 - Получаем файлы и директории в /Users/dianaagapkina/Desktop
+12/19/2018 12:38:49 - /Users/dianaagapkina/Desktop/ADSInspect - существует. Удаляем.
+12/19/2018 12:38:49 - /Users/dianaagapkina/Desktop/ADSFiles - существует. Удаляем.
+12/19/2018 12:38:49 - Создаем файл/Users/dianaagapkina/Desktop/ADSInspect/ADSdirinfo.txt
+12/19/2018 12:38:49 - Записываем информацию о файлах и папках в /Users/dianaagapkina/Desktop/ADSInspect/ADSdirinfo.txt
+12/19/2018 12:38:49 - Перемещаем файл /Users/dianaagapkina/Desktop/ADSInspect/ADSdirinfo.txt в /Users/dianaagapkina/Desktop/ADSInspect/bong.txt
+12/19/2018 12:38:49 - Получаем информацию о jpg файлах в /Users/dianaagapkina/Desktop/good
+12/19/2018 12:38:49 - Копируем файлы png из /Users/dianaagapkina/Desktop/good в /Users/dianaagapkina/Desktop/ADSInspect/
+12/19/2018 12:38:49 - Перемещаем /Users/dianaagapkina/Desktop/ADSFiles в /Users/dianaagapkina/Desktop/ADSInspect
+12/19/2018 12:38:50 - Разархивируем /Users/dianaagapkina/Desktop/ya.zip в /Users/dianaagapkina/Desktop/
+12/19/2018 17:05:38 - Получаем информацию о дисках системы.
+12/19/2018 17:05:38 - Выполняем вывод информации о файле ADSlogfile.txt
+12/19/2018 17:05:38 - Получаем информацию о файлах и директориях в /Users/dianaagapkina/Desktop/3 семестр
+12/19/2018 17:05:39 - Получаем файлы и директории в /Users/dianaagapkina/Desktop
+12/19/2018 17:05:39 - Создаем файл/Users/dianaagapkina/Desktop/ADSInspect/ADSdirinfo.txt
+12/19/2018 17:05:39 - Записываем информацию о файлах и папках в /Users/dianaagapkina/Desktop/ADSInspect/ADSdirinfo.txt
+12/19/2018 17:05:39 - Перемещаем файл /Users/dianaagapkina/Desktop/ADSInspect/ADSdirinfo.txt в /Users/dianaagapkina/Desktop/ADSInspect/bong.txt
+12/19/2018 17:05:39 - Получаем информацию о png файлах в /Users/dianaagapkina/Desktop/good
+12/19/2018 17:05:39 - Копируем файлы png из /Users/dianaagapkina/Desktop/good в /Users/dianaagapkina/Desktop/ADSInspect/
+12/19/2018 17:05:39 - Перемещаем /Users/dianaagapkina/Desktop/ADSFiles в /Users/dianaagapkina/Desktop/ADSInspect
+12/19/2018 17:05:55 - Получаем информацию о дисках системы.
+12/19/2018 17:05:55 - Выполняем вывод информации о файле ADSlogfile.txt
+12/19/2018 17:05:55 - Получаем информацию о файлах и директориях в /Users/dianaagapkina/Desktop/3 семестр
+12/19/2018 17:05:55 - Получаем файлы и директории в /Users/dianaagapkina/Desktop
+12/19/2018 17:05:55 - /Users/dianaagapkina/Desktop/ADSInspect - существует. Удаляем.
+12/19/2018 17:05:55 - /Users/dianaagapkina/Desktop/ADSFiles - существует. Удаляем.
+12/19/2018 17:05:55 - Создаем файл/Users/dianaagapkina/Desktop/ADSInspect/ADSdirinfo.txt
+12/19/2018 17:05:55 - Записываем информацию о файлах и папках в /Users/dianaagapkina/Desktop/ADSInspect/ADSdirinfo.txt
+12/19/2018 17:05:55 - Перемещаем файл /Users/dianaagapkina/Desktop/ADSInspect/ADSdirinfo.txt в /Users/dianaagapkina/Desktop/ADSInspect/bong.txt
+12/19/2018 17:05:55 - Получаем информацию о png файлах в /Users/dianaagapkina/Desktop/good
+12/19/2018 17:05:55 - Копируем файлы png из /Users/dianaagapkina/Desktop/good в /Users/dianaagapkina/Desktop/ADSInspect/
+12/19/2018 17:05:55 - Перемещаем /Users/dianaagapkina/Desktop/ADSFiles в /Users/dianaagapkina/Desktop/ADSInspect
+12/19/2018 17:05:55 - Разархивируем /Users/dianaagapkina/Desktop/ya.zip в /Users/dianaagapkina/Desktop/
