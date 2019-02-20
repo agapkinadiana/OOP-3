@@ -1,0 +1,33 @@
+/Users/dianaagapkina/Desktop/lab1/lab1/obj/Debug/netcoreapp2.1/lab1.csprojAssemblyReference.cache
+/Users/dianaagapkina/Desktop/lab1/lab1/obj/Debug/netcoreapp2.1/lab1.csproj.CoreCompileInputs.cache
+/Users/dianaagapkina/Desktop/lab1/lab1/obj/Debug/netcoreapp2.1/lab1.AssemblyInfoInputs.cache
+/Users/dianaagapkina/Desktop/lab1/lab1/obj/Debug/netcoreapp2.1/lab1.AssemblyInfo.cs
+/Users/dianaagapkina/Desktop/lab1/lab1/bin/Debug/netcoreapp2.1/lab1.deps.json
+/Users/dianaagapkina/Desktop/lab1/lab1/bin/Debug/netcoreapp2.1/lab1.runtimeconfig.json
+/Users/dianaagapkina/Desktop/lab1/lab1/bin/Debug/netcoreapp2.1/lab1.runtimeconfig.dev.json
+/Users/dianaagapkina/Desktop/lab1/lab1/bin/Debug/netcoreapp2.1/lab1.dll
+/Users/dianaagapkina/Desktop/lab1/lab1/bin/Debug/netcoreapp2.1/lab1.pdb
+/Users/dianaagapkina/Desktop/lab1/lab1/obj/Debug/netcoreapp2.1/lab1.dll
+/Users/dianaagapkina/Desktop/lab1/lab1/obj/Debug/netcoreapp2.1/lab1.pdb
+/Users/dianaagapkina/Desktop/3 семестр/ООП/lab1/lab1/bin/Debug/netcoreapp2.1/lab1.deps.json
+/Users/dianaagapkina/Desktop/3 семестр/ООП/lab1/lab1/bin/Debug/netcoreapp2.1/lab1.runtimeconfig.json
+/Users/dianaagapkina/Desktop/3 семестр/ООП/lab1/lab1/bin/Debug/netcoreapp2.1/lab1.runtimeconfig.dev.json
+/Users/dianaagapkina/Desktop/3 семестр/ООП/lab1/lab1/bin/Debug/netcoreapp2.1/lab1.dll
+/Users/dianaagapkina/Desktop/3 семестр/ООП/lab1/lab1/bin/Debug/netcoreapp2.1/lab1.pdb
+/Users/dianaagapkina/Desktop/3 семестр/ООП/lab1/lab1/obj/Debug/netcoreapp2.1/lab1.csprojAssemblyReference.cache
+/Users/dianaagapkina/Desktop/3 семестр/ООП/lab1/lab1/obj/Debug/netcoreapp2.1/lab1.csproj.CoreCompileInputs.cache
+/Users/dianaagapkina/Desktop/3 семестр/ООП/lab1/lab1/obj/Debug/netcoreapp2.1/lab1.AssemblyInfoInputs.cache
+/Users/dianaagapkina/Desktop/3 семестр/ООП/lab1/lab1/obj/Debug/netcoreapp2.1/lab1.AssemblyInfo.cs
+/Users/dianaagapkina/Desktop/3 семестр/ООП/lab1/lab1/obj/Debug/netcoreapp2.1/lab1.dll
+/Users/dianaagapkina/Desktop/3 семестр/ООП/lab1/lab1/obj/Debug/netcoreapp2.1/lab1.pdb
+/Users/dianaagapkina/Desktop/3 семестр/OOP/lab1/lab1/bin/Debug/netcoreapp2.1/lab1.deps.json
+/Users/dianaagapkina/Desktop/3 семестр/OOP/lab1/lab1/bin/Debug/netcoreapp2.1/lab1.runtimeconfig.json
+/Users/dianaagapkina/Desktop/3 семестр/OOP/lab1/lab1/bin/Debug/netcoreapp2.1/lab1.runtimeconfig.dev.json
+/Users/dianaagapkina/Desktop/3 семестр/OOP/lab1/lab1/bin/Debug/netcoreapp2.1/lab1.dll
+/Users/dianaagapkina/Desktop/3 семестр/OOP/lab1/lab1/bin/Debug/netcoreapp2.1/lab1.pdb
+/Users/dianaagapkina/Desktop/3 семестр/OOP/lab1/lab1/obj/Debug/netcoreapp2.1/lab1.csprojAssemblyReference.cache
+/Users/dianaagapkina/Desktop/3 семестр/OOP/lab1/lab1/obj/Debug/netcoreapp2.1/lab1.csproj.CoreCompileInputs.cache
+/Users/dianaagapkina/Desktop/3 семестр/OOP/lab1/lab1/obj/Debug/netcoreapp2.1/lab1.AssemblyInfoInputs.cache
+/Users/dianaagapkina/Desktop/3 семестр/OOP/lab1/lab1/obj/Debug/netcoreapp2.1/lab1.AssemblyInfo.cs
+/Users/dianaagapkina/Desktop/3 семестр/OOP/lab1/lab1/obj/Debug/netcoreapp2.1/lab1.dll
+/Users/dianaagapkina/Desktop/3 семестр/OOP/lab1/lab1/obj/Debug/netcoreapp2.1/lab1.pdb
