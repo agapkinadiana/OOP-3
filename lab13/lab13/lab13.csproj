@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="SerializClass.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="point.json" />
+    <None Remove="point.xml" />
+    <None Remove="users.xml" />
+  </ItemGroup>
+</Project>
