@@ -1,0 +1,22 @@
+/Users/dianaagapkina/Desktop/lab10/lab10/bin/Debug/netcoreapp2.1/lab10.deps.json
+/Users/dianaagapkina/Desktop/lab10/lab10/bin/Debug/netcoreapp2.1/lab10.runtimeconfig.json
+/Users/dianaagapkina/Desktop/lab10/lab10/bin/Debug/netcoreapp2.1/lab10.runtimeconfig.dev.json
+/Users/dianaagapkina/Desktop/lab10/lab10/bin/Debug/netcoreapp2.1/lab10.dll
+/Users/dianaagapkina/Desktop/lab10/lab10/bin/Debug/netcoreapp2.1/lab10.pdb
+/Users/dianaagapkina/Desktop/lab10/lab10/obj/Debug/netcoreapp2.1/lab10.csprojAssemblyReference.cache
+/Users/dianaagapkina/Desktop/lab10/lab10/obj/Debug/netcoreapp2.1/lab10.csproj.CoreCompileInputs.cache
+/Users/dianaagapkina/Desktop/lab10/lab10/obj/Debug/netcoreapp2.1/lab10.AssemblyInfoInputs.cache
+/Users/dianaagapkina/Desktop/lab10/lab10/obj/Debug/netcoreapp2.1/lab10.AssemblyInfo.cs
+/Users/dianaagapkina/Desktop/lab10/lab10/obj/Debug/netcoreapp2.1/lab10.dll
+/Users/dianaagapkina/Desktop/lab10/lab10/obj/Debug/netcoreapp2.1/lab10.pdb
+/Users/dianaagapkina/Desktop/3 семестр/OOP/lab10/lab10/bin/Debug/netcoreapp2.1/lab10.deps.json
+/Users/dianaagapkina/Desktop/3 семестр/OOP/lab10/lab10/bin/Debug/netcoreapp2.1/lab10.runtimeconfig.json
+/Users/dianaagapkina/Desktop/3 семестр/OOP/lab10/lab10/bin/Debug/netcoreapp2.1/lab10.runtimeconfig.dev.json
+/Users/dianaagapkina/Desktop/3 семестр/OOP/lab10/lab10/bin/Debug/netcoreapp2.1/lab10.dll
+/Users/dianaagapkina/Desktop/3 семестр/OOP/lab10/lab10/bin/Debug/netcoreapp2.1/lab10.pdb
+/Users/dianaagapkina/Desktop/3 семестр/OOP/lab10/lab10/obj/Debug/netcoreapp2.1/lab10.csprojAssemblyReference.cache
+/Users/dianaagapkina/Desktop/3 семестр/OOP/lab10/lab10/obj/Debug/netcoreapp2.1/lab10.csproj.CoreCompileInputs.cache
+/Users/dianaagapkina/Desktop/3 семестр/OOP/lab10/lab10/obj/Debug/netcoreapp2.1/lab10.AssemblyInfoInputs.cache
+/Users/dianaagapkina/Desktop/3 семестр/OOP/lab10/lab10/obj/Debug/netcoreapp2.1/lab10.AssemblyInfo.cs
+/Users/dianaagapkina/Desktop/3 семестр/OOP/lab10/lab10/obj/Debug/netcoreapp2.1/lab10.dll
+/Users/dianaagapkina/Desktop/3 семестр/OOP/lab10/lab10/obj/Debug/netcoreapp2.1/lab10.pdb
