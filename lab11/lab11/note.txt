@@ -1,0 +1,57 @@
+lab11.Airline Method ShowInf
+lab11.Airline Method ShowDetail
+lab11.Airline Method get_DESTINATION
+lab11.Airline Method set_DESTINATION
+lab11.Airline Method get_NUMBEROFFLIGHT
+lab11.Airline Method set_NUMBEROFFLIGHT
+lab11.Airline Method get_TYPEOFPLANE
+lab11.Airline Method set_TYPEOFPLANE
+lab11.Airline Method get_DAY
+lab11.Airline Method set_DAY
+lab11.Airline Method Method1
+lab11.Airline Method CompareTo
+System.Object Method ToString
+System.Object Method Equals
+System.Object Method GetHashCode
+System.Object Method GetType
+lab11.Airline Constructor .ctor
+lab11.Airline Constructor .ctor
+lab11.Airline Property DESTINATION
+lab11.Airline Property NUMBEROFFLIGHT
+lab11.Airline Property TYPEOFPLANE
+lab11.Airline Property DAY
+lab11.Airline NestedType WeekDays
+
+_______________Public methods of class_______________
+ShowInf
+ShowDetail
+get_DESTINATION
+set_DESTINATION
+get_NUMBEROFFLIGHT
+set_NUMBEROFFLIGHT
+get_TYPEOFPLANE
+set_TYPEOFPLANE
+get_DAY
+set_DAY
+Method1
+CompareTo
+ToString
+Equals
+GetHashCode
+GetType
+
+_______________Info about properties and fields_______________
+Properties:
+DESTINATION System.String
+NUMBEROFFLIGHT System.Int32
+TYPEOFPLANE System.Char
+DAY lab11.Airline+WeekDays
+
+Fields:
+
+_______________Info about implemented interfaces_______________
+IComparable
+
+_______________Info about user methods_______________
+System.String num
+
