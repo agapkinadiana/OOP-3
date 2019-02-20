@@ -1,0 +1,22 @@
+/Users/dianaagapkina/Desktop/labs4-6/labs4-6/bin/Debug/netcoreapp2.1/labs4-6.deps.json
+/Users/dianaagapkina/Desktop/labs4-6/labs4-6/bin/Debug/netcoreapp2.1/labs4-6.runtimeconfig.json
+/Users/dianaagapkina/Desktop/labs4-6/labs4-6/bin/Debug/netcoreapp2.1/labs4-6.runtimeconfig.dev.json
+/Users/dianaagapkina/Desktop/labs4-6/labs4-6/bin/Debug/netcoreapp2.1/labs4-6.dll
+/Users/dianaagapkina/Desktop/labs4-6/labs4-6/bin/Debug/netcoreapp2.1/labs4-6.pdb
+/Users/dianaagapkina/Desktop/labs4-6/labs4-6/obj/Debug/netcoreapp2.1/labs4-6.csprojAssemblyReference.cache
+/Users/dianaagapkina/Desktop/labs4-6/labs4-6/obj/Debug/netcoreapp2.1/labs4-6.csproj.CoreCompileInputs.cache
+/Users/dianaagapkina/Desktop/labs4-6/labs4-6/obj/Debug/netcoreapp2.1/labs4-6.AssemblyInfoInputs.cache
+/Users/dianaagapkina/Desktop/labs4-6/labs4-6/obj/Debug/netcoreapp2.1/labs4-6.AssemblyInfo.cs
+/Users/dianaagapkina/Desktop/labs4-6/labs4-6/obj/Debug/netcoreapp2.1/labs4-6.dll
+/Users/dianaagapkina/Desktop/labs4-6/labs4-6/obj/Debug/netcoreapp2.1/labs4-6.pdb
+/Users/dianaagapkina/Desktop/3 семестр/OOP/labs4-6/labs4-6/bin/Debug/netcoreapp2.1/labs4-6.deps.json
+/Users/dianaagapkina/Desktop/3 семестр/OOP/labs4-6/labs4-6/bin/Debug/netcoreapp2.1/labs4-6.runtimeconfig.json
+/Users/dianaagapkina/Desktop/3 семестр/OOP/labs4-6/labs4-6/bin/Debug/netcoreapp2.1/labs4-6.runtimeconfig.dev.json
+/Users/dianaagapkina/Desktop/3 семестр/OOP/labs4-6/labs4-6/bin/Debug/netcoreapp2.1/labs4-6.dll
+/Users/dianaagapkina/Desktop/3 семестр/OOP/labs4-6/labs4-6/bin/Debug/netcoreapp2.1/labs4-6.pdb
+/Users/dianaagapkina/Desktop/3 семестр/OOP/labs4-6/labs4-6/obj/Debug/netcoreapp2.1/labs4-6.csprojAssemblyReference.cache
+/Users/dianaagapkina/Desktop/3 семестр/OOP/labs4-6/labs4-6/obj/Debug/netcoreapp2.1/labs4-6.csproj.CoreCompileInputs.cache
+/Users/dianaagapkina/Desktop/3 семестр/OOP/labs4-6/labs4-6/obj/Debug/netcoreapp2.1/labs4-6.AssemblyInfoInputs.cache
+/Users/dianaagapkina/Desktop/3 семестр/OOP/labs4-6/labs4-6/obj/Debug/netcoreapp2.1/labs4-6.AssemblyInfo.cs
+/Users/dianaagapkina/Desktop/3 семестр/OOP/labs4-6/labs4-6/obj/Debug/netcoreapp2.1/labs4-6.dll
+/Users/dianaagapkina/Desktop/3 семестр/OOP/labs4-6/labs4-6/obj/Debug/netcoreapp2.1/labs4-6.pdb
