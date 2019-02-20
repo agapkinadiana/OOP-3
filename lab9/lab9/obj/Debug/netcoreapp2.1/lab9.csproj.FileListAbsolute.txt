@@ -1,0 +1,22 @@
+/Users/dianaagapkina/Desktop/lab9/lab9/obj/Debug/netcoreapp2.1/lab9.csprojAssemblyReference.cache
+/Users/dianaagapkina/Desktop/lab9/lab9/obj/Debug/netcoreapp2.1/lab9.csproj.CoreCompileInputs.cache
+/Users/dianaagapkina/Desktop/lab9/lab9/obj/Debug/netcoreapp2.1/lab9.AssemblyInfoInputs.cache
+/Users/dianaagapkina/Desktop/lab9/lab9/obj/Debug/netcoreapp2.1/lab9.AssemblyInfo.cs
+/Users/dianaagapkina/Desktop/lab9/lab9/bin/Debug/netcoreapp2.1/lab9.deps.json
+/Users/dianaagapkina/Desktop/lab9/lab9/bin/Debug/netcoreapp2.1/lab9.runtimeconfig.json
+/Users/dianaagapkina/Desktop/lab9/lab9/bin/Debug/netcoreapp2.1/lab9.runtimeconfig.dev.json
+/Users/dianaagapkina/Desktop/lab9/lab9/bin/Debug/netcoreapp2.1/lab9.dll
+/Users/dianaagapkina/Desktop/lab9/lab9/bin/Debug/netcoreapp2.1/lab9.pdb
+/Users/dianaagapkina/Desktop/lab9/lab9/obj/Debug/netcoreapp2.1/lab9.dll
+/Users/dianaagapkina/Desktop/lab9/lab9/obj/Debug/netcoreapp2.1/lab9.pdb
+/Users/dianaagapkina/Desktop/3 семестр/OOP/lab9/lab9/bin/Debug/netcoreapp2.1/lab9.deps.json
+/Users/dianaagapkina/Desktop/3 семестр/OOP/lab9/lab9/bin/Debug/netcoreapp2.1/lab9.runtimeconfig.json
+/Users/dianaagapkina/Desktop/3 семестр/OOP/lab9/lab9/bin/Debug/netcoreapp2.1/lab9.runtimeconfig.dev.json
+/Users/dianaagapkina/Desktop/3 семестр/OOP/lab9/lab9/bin/Debug/netcoreapp2.1/lab9.dll
+/Users/dianaagapkina/Desktop/3 семестр/OOP/lab9/lab9/bin/Debug/netcoreapp2.1/lab9.pdb
+/Users/dianaagapkina/Desktop/3 семестр/OOP/lab9/lab9/obj/Debug/netcoreapp2.1/lab9.csprojAssemblyReference.cache
+/Users/dianaagapkina/Desktop/3 семестр/OOP/lab9/lab9/obj/Debug/netcoreapp2.1/lab9.csproj.CoreCompileInputs.cache
+/Users/dianaagapkina/Desktop/3 семестр/OOP/lab9/lab9/obj/Debug/netcoreapp2.1/lab9.AssemblyInfoInputs.cache
+/Users/dianaagapkina/Desktop/3 семестр/OOP/lab9/lab9/obj/Debug/netcoreapp2.1/lab9.AssemblyInfo.cs
+/Users/dianaagapkina/Desktop/3 семестр/OOP/lab9/lab9/obj/Debug/netcoreapp2.1/lab9.dll
+/Users/dianaagapkina/Desktop/3 семестр/OOP/lab9/lab9/obj/Debug/netcoreapp2.1/lab9.pdb
